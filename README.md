@@ -17,7 +17,7 @@ A live demo of the application can be found [🚀here]([https://d-portfolio-f41f
 
 ## 👓 Screenshots
 
-![Screenshot of the app](/openai.png)
+![Screenshot of the app](/image.png)
 
 ## 🛠️ Installation
 
