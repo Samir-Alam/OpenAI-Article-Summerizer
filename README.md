@@ -1,6 +1,8 @@
 # OpenAI-Article-Summerizer
 It is an open-source, AI-powered summarizer using RapidAPI's Article Extractor and GPT technology. Transform lengthy articles into concise summaries in seconds. Ideal for students, researchers, and professionals. Contribute and help revolutionize reading efficiency.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17c3e747-920e-4dd9-a8f9-d12a7af3c9d6/deploy-status)](https://app.netlify.com/sites/glittery-gelato-eedbcd/deploys)
+
 ## 🚀 Features
 
 - Advanced GPT-driven summarization technology
