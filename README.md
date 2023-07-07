@@ -15,7 +15,7 @@ It is an open-source, AI-powered summarizer using RapidAPI's Article Extractor a
 
 ## 🌐 Demo
 
-A live demo of the application can be found [🚀here](https://glittery-gelato-eedbcd.netlify.app/).
+A live demo of the application can be found [🚀here](https://openai-summarizer-by-samir.netlify.app/).
 
 ## 👓 Screenshots
 
